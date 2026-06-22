@@ -1,0 +1,23 @@
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+env/
+
+# OS-generated clutter
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor/IDE folders
+.vscode/
+.idea/
+
+# Output clutter
+*.tmp
+*.log
